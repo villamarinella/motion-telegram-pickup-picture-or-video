@@ -1,4 +1,3 @@
-# motion-telegram-pickup-picture-or-video
 Tags............
 motion, telegram, raspberry pi, raspberry camera, uv4l, security
 
